@@ -1,4 +1,2 @@
-p4practicaEditarEliminarVer
+CRUD PHP
 ===========================
-
-terminado
